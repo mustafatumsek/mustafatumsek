@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa Tumsek</h1>
 <h3 align="center">I’m a 3rd-year Management Information Systems student at Pamukkale University. Passionate about learning and self-improvement, I actively participate in events and contribute to various projects. Continuously seeking opportunities to grow my skills and apply them to real-world challenges.</h3>
 
-- 📫 How to reach me **tumsekmustafa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  **tumsekmustafa@gmail.com**
 <p align="left">
 </p>
 
